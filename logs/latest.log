@@ -1,0 +1,106 @@
+[21:12:21] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:12:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:12:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:12:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:12:21] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:12:21] [main/INFO]: Loaded 0 recipes
+[21:12:21] [main/INFO]: Loaded 0 advancements
+[21:12:21] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[21:12:21] [Server thread/INFO]: Loading properties
+[21:12:21] [Server thread/INFO]: Default game type: SURVIVAL
+[21:12:21] [Server thread/INFO]: Generating keypair
+[21:12:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:12:22] [Server thread/INFO]: Using epoll channel type
+[21:12:23] [Server thread/INFO]: Preparing level "world"
+[21:12:23] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
+[21:12:23] [Server thread/INFO]: Reloading ResourceManager: Default
+[21:12:25] [Server thread/INFO]: Loaded 524 recipes
+[21:12:27] [Server thread/INFO]: Loaded 571 advancements
+[21:12:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:12:37] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:38] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:39] [Server thread/INFO]: Preparing spawn area: 0%
+[21:12:39] [Server thread/INFO]: Preparing spawn area: 4%
+[21:12:40] [Server thread/INFO]: Preparing spawn area: 8%
+[21:12:40] [Server thread/INFO]: Preparing spawn area: 12%
+[21:12:41] [Server thread/INFO]: Preparing spawn area: 16%
+[21:12:41] [Server thread/INFO]: Preparing spawn area: 20%
+[21:12:42] [Server thread/INFO]: Preparing spawn area: 24%
+[21:12:42] [Server thread/INFO]: Preparing spawn area: 28%
+[21:12:43] [Server thread/INFO]: Preparing spawn area: 32%
+[21:12:43] [Server thread/INFO]: Preparing spawn area: 36%
+[21:12:44] [Server thread/INFO]: Preparing spawn area: 40%
+[21:12:44] [Server thread/INFO]: Preparing spawn area: 44%
+[21:12:45] [Server thread/INFO]: Preparing spawn area: 48%
+[21:12:46] [Server thread/INFO]: Preparing spawn area: 52%
+[21:12:46] [Server thread/INFO]: Preparing spawn area: 56%
+[21:12:47] [Server thread/INFO]: Preparing spawn area: 60%
+[21:12:48] [Server thread/INFO]: Preparing spawn area: 64%
+[21:12:48] [Server thread/INFO]: Preparing spawn area: 68%
+[21:12:49] [Server thread/INFO]: Preparing spawn area: 72%
+[21:12:49] [Server thread/INFO]: Preparing spawn area: 76%
+[21:12:50] [Server thread/INFO]: Preparing spawn area: 80%
+[21:12:50] [Server thread/INFO]: Preparing spawn area: 84%
+[21:12:51] [Server thread/INFO]: Preparing spawn area: 88%
+[21:12:52] [Server thread/INFO]: Preparing spawn area: 92%
+[21:12:52] [Server thread/INFO]: Preparing spawn area: 96%
+[21:12:53] [Server thread/INFO]: Preparing spawn area: 100%
+[21:12:53] [Server thread/INFO]: Time elapsed: 16433 ms
+[21:12:53] [Server thread/INFO]: Done (30.501s)! For help, type "help"
+[21:12:53] [Server thread/INFO]: Starting remote control listener
+[21:12:53] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
+[21:13:09] [User Authenticator #1/INFO]: UUID of player BlockMiner73 is a246574b-4283-4036-8d2d-0bf8596de528
+[21:13:09] [Server thread/INFO]: BlockMiner73[/82.30.198.224:51067] logged in with entity id 528 at (-45.5, 65.0, -219.5)
+[21:13:09] [Server thread/INFO]: BlockMiner73 joined the game
+[21:13:11] [User Authenticator #2/INFO]: UUID of player kijilas is add7566f-c794-440a-9702-efdb78eaade0
+[21:13:11] [Server thread/INFO]: kijilas[/82.30.198.224:52009] logged in with entity id 1154 at (-54.5, 75.0, -232.5)
+[21:13:11] [Server thread/INFO]: kijilas joined the game
+[21:13:16] [Server thread/INFO]: BlockMiner73 lost connection: Disconnected
+[21:13:16] [Server thread/INFO]: BlockMiner73 left the game
+[21:13:49] [User Authenticator #3/INFO]: UUID of player Mathirsty is 532f74e7-6bdc-43fe-81fd-5b3d9cd2bc3c
+[21:13:49] [Server thread/INFO]: Mathirsty[/70.52.74.206:52668] logged in with entity id 1675 at (-40.5, 69.0, -229.5)
+[21:13:49] [Server thread/INFO]: Mathirsty joined the game
+[21:14:35] [Server thread/INFO]: kijilas has made the advancement [Stone Age]
+[21:15:21] [Server thread/INFO]: kijilas has made the advancement [Getting an Upgrade]
+[21:15:30] [Server thread/INFO]: Mathirsty has made the advancement [Getting an Upgrade]
+[21:17:32] [Server thread/INFO]: kijilas has made the advancement [Monster Hunter]
+[21:19:53] [Server thread/INFO]: Mathirsty has made the advancement [Stone Age]
+[21:26:19] [Server thread/INFO]: kijilas has made the advancement [Acquire Hardware]
+[21:32:16] [Server thread/INFO]: kijilas has made the advancement [A Seedy Place]
+[21:34:07] [Server thread/INFO]: kijilas has made the advancement [Isn't It Iron Pick]
+[21:34:07] [Server thread/INFO]: kijilas has made the advancement [Suit Up]
+[21:34:11] [Server thread/INFO]: Mathirsty has made the advancement [Suit Up]
+[21:35:50] [Server thread/INFO]: Mathirsty has made the advancement [Acquire Hardware]
+[21:36:55] [Server thread/INFO]: Mathirsty has made the advancement [Isn't It Iron Pick]
+[21:39:52] [Server thread/INFO]: kijilas has made the advancement [Diamonds!]
+[22:25:44] [Server thread/INFO]: Mathirsty lost connection: Disconnected
+[22:25:44] [Server thread/INFO]: Mathirsty left the game
+[22:26:01] [User Authenticator #4/INFO]: UUID of player Mathirsty is 532f74e7-6bdc-43fe-81fd-5b3d9cd2bc3c
+[22:26:01] [Server thread/INFO]: Mathirsty[/70.52.74.206:52854] logged in with entity id 59199 at (-84.69999998807906, 28.0, -224.99742501508317)
+[22:26:01] [Server thread/INFO]: Mathirsty joined the game
+[22:33:16] [Server thread/INFO]: kijilas has made the advancement [Cover Me With Diamonds]
+[22:37:18] [Server thread/INFO]: kijilas has made the advancement [Hot Stuff]
+[22:37:52] [Server thread/INFO]: kijilas has made the advancement [Ice Bucket Challenge]
+[22:41:08] [Server thread/INFO]: Mathirsty tried to swim in lava
+[22:59:27] [Server thread/INFO]: Mathirsty lost connection: Disconnected
+[22:59:27] [Server thread/INFO]: Mathirsty left the game
+[23:00:21] [Server thread/INFO]: kijilas lost connection: Disconnected
+[23:00:21] [Server thread/INFO]: kijilas left the game
+[23:00:25] [User Authenticator #5/INFO]: UUID of player kijilas is add7566f-c794-440a-9702-efdb78eaade0
+[23:00:25] [Server thread/INFO]: kijilas[/82.30.198.224:52293] logged in with entity id 91262 at (-82.70493246801198, 29.0, -224.30000001192093)
+[23:00:25] [Server thread/INFO]: kijilas joined the game
+[23:01:43] [Server thread/INFO]: kijilas lost connection: Disconnected
+[23:01:43] [Server thread/INFO]: kijilas left the game
+[23:03:13] [Server thread/INFO]: Stopping the server
+[23:03:14] [Server thread/INFO]: Stopping server
+[23:03:14] [Server thread/INFO]: Saving players
+[23:03:14] [Server thread/INFO]: Saving worlds
+[23:03:14] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[23:03:14] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[23:03:14] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[23:03:14] [Server Shutdown Thread/INFO]: Stopping server
+[23:03:14] [Server Shutdown Thread/INFO]: Saving players
+[23:03:14] [Server Shutdown Thread/INFO]: Saving worlds
+[23:03:14] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[23:03:14] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[23:03:14] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
