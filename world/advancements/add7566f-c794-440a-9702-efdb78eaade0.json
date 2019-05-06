@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2019-05-06 20:24:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2019-05-04 21:43:07 +0000"
@@ -475,6 +481,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2019-05-06 21:02:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-05-03 22:50:10 +0000"
@@ -595,6 +607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2019-05-06 20:25:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2019-05-04 20:46:46 +0000"
@@ -616,8 +634,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2019-05-03 22:22:39 +0000",
+      "minecraft:ghast": "2019-05-06 21:02:10 +0000",
       "minecraft:spider": "2019-05-03 22:26:58 +0000",
       "minecraft:creeper": "2019-05-03 22:46:38 +0000",
+      "minecraft:phantom": "2019-05-06 21:05:07 +0000",
       "minecraft:cave_spider": "2019-05-05 22:06:06 +0000",
       "minecraft:enderman": "2019-05-04 21:52:36 +0000",
       "minecraft:zombie": "2019-05-03 22:20:41 +0000",
@@ -828,6 +848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-05-06 20:25:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2019-05-04 20:09:48 +0000"
@@ -891,6 +917,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2019-05-05 22:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2019-05-06 20:32:38 +0000"
     },
     "done": true
   },
@@ -1191,9 +1223,11 @@
       "minecraft:taiga_hills": "2019-05-05 21:02:56 +0000",
       "minecraft:jungle": "2019-05-04 23:07:13 +0000",
       "minecraft:birch_forest": "2019-05-05 20:44:52 +0000",
+      "minecraft:jungle_hills": "2019-05-06 20:27:18 +0000",
       "minecraft:bamboo_jungle": "2019-05-04 23:08:04 +0000",
       "minecraft:warm_ocean": "2019-05-04 22:47:35 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-05-04 22:50:02 +0000",
+      "minecraft:savanna_plateau": "2019-05-06 20:35:25 +0000",
       "minecraft:beach": "2019-05-04 21:39:45 +0000",
       "minecraft:dark_forest": "2019-05-05 21:52:53 +0000",
       "minecraft:river": "2019-05-04 20:07:24 +0000",
@@ -1205,6 +1239,7 @@
       "minecraft:giant_tree_taiga_hills": "2019-05-04 22:43:55 +0000",
       "minecraft:stone_shore": "2019-05-05 20:48:21 +0000",
       "minecraft:swamp": "2019-05-05 20:37:25 +0000",
+      "minecraft:savanna": "2019-05-06 20:32:31 +0000",
       "minecraft:plains": "2019-05-04 21:38:35 +0000"
     },
     "done": false
@@ -1641,6 +1676,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2019-05-06 20:43:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2019-05-03 22:14:49 +0000"
@@ -1698,6 +1739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-05-06 20:25:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2019-05-04 21:20:43 +0000"
@@ -1707,6 +1754,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2019-05-03 22:28:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2019-05-06 20:25:55 +0000"
     },
     "done": true
   },
@@ -2474,6 +2527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_jungle_planks": "2019-05-06 20:25:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2019-05-05 20:54:43 +0000"
@@ -2546,9 +2605,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2019-05-06 20:25:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2019-05-03 22:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_logs": "2019-05-06 20:32:38 +0000"
     },
     "done": true
   },
@@ -2642,6 +2713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2019-05-06 20:25:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2019-05-03 22:28:34 +0000"
@@ -2684,6 +2761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2019-05-06 20:25:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-05-04 20:10:04 +0000"
@@ -2699,6 +2782,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2019-05-04 20:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-05-06 20:25:55 +0000"
     },
     "done": true
   },
