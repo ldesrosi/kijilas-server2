@@ -1652,6 +1652,7 @@
       "sweet_berries": "2019-05-05 22:02:41 +0000",
       "cooked_beef": "2019-05-03 22:40:51 +0000",
       "apple": "2019-05-03 23:01:42 +0000",
+      "bread": "2019-06-09 20:39:21 +0000",
       "rotten_flesh": "2019-05-03 22:25:46 +0000",
       "suspicious_stew": "2019-05-04 22:45:57 +0000",
       "melon_slice": "2019-05-05 20:49:50 +0000",
@@ -2582,6 +2583,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2019-05-03 23:03:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2019-06-09 20:40:06 +0000"
     },
     "done": true
   },
