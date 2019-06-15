@@ -263,6 +263,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2019-06-14 20:29:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2019-06-14 21:20:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2019-05-04 20:23:16 +0000"
@@ -458,6 +470,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-05-04 22:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2019-06-14 21:23:22 +0000"
     },
     "done": true
   },
@@ -877,6 +895,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2019-05-04 23:08:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2019-06-14 20:29:50 +0000"
     },
     "done": true
   },
@@ -1303,6 +1327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2019-06-14 21:23:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2019-05-04 20:56:45 +0000"
@@ -1459,6 +1489,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2019-06-14 21:23:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2019-05-04 21:05:24 +0000"
@@ -1522,6 +1558,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2019-05-04 20:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2019-06-14 21:23:22 +0000"
     },
     "done": true
   },
@@ -1657,6 +1699,7 @@
       "cooked_mutton": "2019-05-04 21:20:47 +0000",
       "sweet_berries": "2019-05-05 22:02:41 +0000",
       "cooked_beef": "2019-05-03 22:40:51 +0000",
+      "baked_potato": "2019-06-14 22:27:17 +0000",
       "apple": "2019-05-03 23:01:42 +0000",
       "bread": "2019-06-09 20:39:21 +0000",
       "rotten_flesh": "2019-05-03 22:25:46 +0000",
@@ -1998,6 +2041,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2019-06-14 20:29:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-04 21:02:40 +0000"
@@ -2067,6 +2116,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2019-05-04 21:02:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2019-06-14 21:20:06 +0000"
     },
     "done": true
   },
@@ -2520,6 +2575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_logs": "2019-06-14 20:29:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2019-05-04 21:02:41 +0000"
@@ -2577,6 +2638,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2019-05-04 20:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2019-06-14 21:20:06 +0000"
     },
     "done": true
   },
@@ -2721,6 +2788,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2019-05-04 21:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2019-06-14 21:23:22 +0000"
     },
     "done": true
   },
