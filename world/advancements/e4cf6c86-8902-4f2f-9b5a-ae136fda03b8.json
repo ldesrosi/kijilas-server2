@@ -2454,7 +2454,8 @@
     "criteria": {
       "minecraft:sheep": "2019-05-05 21:40:25 +0000",
       "minecraft:cow": "2019-05-05 21:40:27 +0000",
-      "minecraft:wolf": "2019-06-16 20:56:51 +0000"
+      "minecraft:wolf": "2019-06-16 20:56:51 +0000",
+      "minecraft:panda": "2019-07-26 22:08:03 +0000"
     },
     "done": false
   },
