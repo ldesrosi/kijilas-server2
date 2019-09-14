@@ -300,6 +300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2019-09-14 14:13:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2019-07-15 09:18:15 +0000"
@@ -390,6 +396,7 @@
       "cooked_mutton": "2019-07-15 09:43:54 +0000",
       "sweet_berries": "2019-07-15 09:26:16 +0000",
       "cooked_beef": "2019-07-15 09:52:57 +0000",
+      "chorus_fruit": "2019-09-14 14:13:43 +0000",
       "porkchop": "2019-07-15 09:49:05 +0000",
       "pumpkin_pie": "2019-07-15 13:56:23 +0000",
       "bread": "2019-07-15 09:30:09 +0000",
@@ -571,15 +578,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2019-07-15 09:13:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2019-07-15 09:13:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2019-07-15 09:13:53 +0000"
     },
     "done": true
   },
@@ -605,6 +612,12 @@
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_reeds": "2019-07-15 13:51:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2019-09-14 14:19:57 +0000"
     },
     "done": true
   },
@@ -671,6 +684,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2019-07-15 09:44:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2019-09-14 14:04:23 +0000"
     },
     "done": true
   },
@@ -971,6 +990,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2019-09-14 14:11:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2019-07-15 09:15:25 +0000"
@@ -1061,6 +1086,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2019-09-14 14:11:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2019-07-15 09:13:53 +0000"
@@ -1109,6 +1140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2019-09-14 14:27:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2019-07-15 09:13:53 +0000"
@@ -1118,6 +1155,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-07-15 09:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2019-09-14 14:27:30 +0000"
     },
     "done": true
   },
@@ -1343,6 +1386,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2019-09-14 14:13:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2019-07-15 09:16:04 +0000"
@@ -1405,14 +1454,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2019-07-15 09:13:24 +0000",
       "minecraft:mountains": "2019-07-15 09:25:33 +0000",
+      "minecraft:forest": "2019-07-15 09:13:24 +0000",
       "minecraft:birch_forest": "2019-07-15 09:48:20 +0000",
+      "minecraft:bamboo_jungle": "2019-09-14 14:25:27 +0000",
       "minecraft:beach": "2019-07-15 09:49:25 +0000",
       "minecraft:dark_forest": "2019-07-15 09:44:19 +0000",
       "minecraft:river": "2019-07-15 09:54:51 +0000",
       "minecraft:birch_forest_hills": "2019-07-15 09:58:40 +0000",
       "minecraft:wooded_mountains": "2019-07-15 09:52:45 +0000",
+      "minecraft:bamboo_jungle_hills": "2019-09-14 14:26:13 +0000",
       "minecraft:wooded_hills": "2019-07-15 09:17:44 +0000",
       "minecraft:stone_shore": "2019-07-15 09:50:12 +0000",
       "minecraft:plains": "2019-07-15 09:58:55 +0000"
@@ -1533,6 +1584,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2019-09-14 13:54:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2019-07-15 09:18:15 +0000"
@@ -1578,6 +1635,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2019-07-15 09:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2019-09-14 14:11:46 +0000"
     },
     "done": true
   },
@@ -1701,5 +1764,5 @@
     },
     "done": true
   },
-  "DataVersion": 1968
+  "DataVersion": 1976
 }
