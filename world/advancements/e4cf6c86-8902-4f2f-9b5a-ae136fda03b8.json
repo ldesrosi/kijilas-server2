@@ -2281,6 +2281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2019-10-12 21:18:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2019-08-10 21:34:19 +0000"
@@ -2652,6 +2658,12 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2019-08-10 21:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2019-10-12 21:18:24 +0000"
     },
     "done": true
   },
