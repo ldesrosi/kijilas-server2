@@ -1822,6 +1822,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2019-10-28 23:22:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2019-05-04 22:41:49 +0000"
@@ -2320,6 +2326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2019-10-28 22:53:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2019-08-10 21:34:19 +0000"
@@ -2373,6 +2385,7 @@
       "baked_potato": "2019-06-09 20:53:35 +0000",
       "apple": "2019-07-14 00:27:14 +0000",
       "spider_eye": "2019-06-21 23:17:43 +0000",
+      "poisonous_potato": "2019-10-28 23:05:06 +0000",
       "pumpkin_pie": "2019-05-05 22:01:34 +0000",
       "mutton": "2019-09-06 21:47:05 +0000",
       "bread": "2019-05-04 19:43:57 +0000",
@@ -2693,6 +2706,12 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2019-08-10 21:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2019-10-28 22:53:26 +0000"
     },
     "done": true
   },
@@ -3895,6 +3914,12 @@
       "has_stone": "2019-05-04 20:46:46 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/black.png": "2019-10-28 23:29:11 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
