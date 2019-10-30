@@ -2339,7 +2339,9 @@
       "apple": "2019-05-03 23:01:42 +0000",
       "potato": "2019-09-06 21:36:33 +0000",
       "cooked_cod": "2019-07-06 21:27:34 +0000",
+      "poisonous_potato": "2019-10-29 23:36:49 +0000",
       "pumpkin_pie": "2019-06-25 22:09:49 +0000",
+      "pufferfish": "2019-10-29 22:04:19 +0000",
       "bread": "2019-06-09 20:39:21 +0000",
       "rotten_flesh": "2019-05-03 22:25:46 +0000",
       "suspicious_stew": "2019-05-04 22:45:57 +0000",
@@ -2606,6 +2608,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2019-10-29 21:50:28 +0000",
       "minecraft:sheep": "2019-05-05 21:40:25 +0000",
       "minecraft:cow": "2019-05-05 21:40:27 +0000",
       "minecraft:wolf": "2019-06-16 20:56:51 +0000",
@@ -3845,7 +3848,9 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/british_shorthair.png": "2019-10-28 23:28:44 +0000"
+      "textures/entity/cat/ragdoll.png": "2019-10-29 21:32:15 +0000",
+      "textures/entity/cat/british_shorthair.png": "2019-10-28 23:28:44 +0000",
+      "textures/entity/cat/calico.png": "2019-10-29 21:49:46 +0000"
     },
     "done": false
   },

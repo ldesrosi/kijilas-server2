@@ -1822,6 +1822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2019-10-29 23:04:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "salmon": "2019-10-28 23:22:46 +0000"
@@ -2388,6 +2394,7 @@
       "poisonous_potato": "2019-10-28 23:05:06 +0000",
       "pumpkin_pie": "2019-05-05 22:01:34 +0000",
       "mutton": "2019-09-06 21:47:05 +0000",
+      "pufferfish": "2019-10-29 22:04:20 +0000",
       "bread": "2019-05-04 19:43:57 +0000",
       "rotten_flesh": "2019-05-03 23:09:07 +0000",
       "suspicious_stew": "2019-05-04 22:35:07 +0000",
@@ -3264,6 +3271,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2019-05-04 20:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2019-10-29 23:04:48 +0000"
     },
     "done": true
   },
