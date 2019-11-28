@@ -3930,7 +3930,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/black.png": "2019-10-28 23:29:11 +0000"
+      "textures/entity/cat/black.png": "2019-10-28 23:29:11 +0000",
+      "textures/entity/cat/all_black.png": "2019-11-28 22:56:46 +0000"
     },
     "done": false
   },
