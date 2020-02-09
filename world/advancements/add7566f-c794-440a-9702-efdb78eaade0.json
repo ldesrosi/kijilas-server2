@@ -813,8 +813,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:blaze": "2019-07-13 22:27:45 +0000",
       "minecraft:pillager": "2019-07-06 20:13:26 +0000",
+      "minecraft:blaze": "2019-07-13 22:27:45 +0000",
       "minecraft:skeleton": "2019-05-03 22:22:39 +0000",
       "minecraft:zombie_pigman": "2019-06-21 22:25:23 +0000",
       "minecraft:ghast": "2019-05-06 21:02:10 +0000",
@@ -828,8 +828,8 @@
       "minecraft:husk": "2019-07-27 21:31:16 +0000",
       "minecraft:shulker": "2019-07-15 21:46:30 +0000",
       "minecraft:cave_spider": "2019-05-05 22:06:06 +0000",
-      "minecraft:silverfish": "2019-07-14 00:01:47 +0000",
       "minecraft:enderman": "2019-05-04 21:52:36 +0000",
+      "minecraft:silverfish": "2019-07-14 00:01:47 +0000",
       "minecraft:zombie": "2019-05-03 22:20:41 +0000",
       "minecraft:drowned": "2019-05-04 21:40:03 +0000",
       "minecraft:zombie_villager": "2019-05-04 21:45:17 +0000"
@@ -1602,10 +1602,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle_edge": "2019-05-05 21:59:39 +0000",
       "minecraft:cold_ocean": "2019-05-04 23:06:09 +0000",
-      "minecraft:mountains": "2019-05-04 20:07:23 +0000",
+      "minecraft:jungle_edge": "2019-05-05 21:59:39 +0000",
       "minecraft:forest": "2019-05-03 22:12:13 +0000",
+      "minecraft:mountains": "2019-05-04 20:07:23 +0000",
       "minecraft:taiga": "2019-05-04 22:22:15 +0000",
       "minecraft:desert_hills": "2019-07-15 10:45:20 +0000",
       "minecraft:giant_tree_taiga": "2019-05-04 22:26:43 +0000",
@@ -1622,14 +1622,14 @@
       "minecraft:savanna_plateau": "2019-05-06 20:35:25 +0000",
       "minecraft:beach": "2019-05-04 21:39:45 +0000",
       "minecraft:dark_forest": "2019-05-05 21:52:53 +0000",
-      "minecraft:lukewarm_ocean": "2019-05-04 22:25:44 +0000",
       "minecraft:river": "2019-05-04 20:07:24 +0000",
+      "minecraft:lukewarm_ocean": "2019-05-04 22:25:44 +0000",
       "minecraft:birch_forest_hills": "2019-05-05 20:44:39 +0000",
-      "minecraft:bamboo_jungle_hills": "2019-05-04 23:09:21 +0000",
       "minecraft:wooded_mountains": "2019-05-04 21:26:13 +0000",
+      "minecraft:bamboo_jungle_hills": "2019-05-04 23:09:21 +0000",
       "minecraft:wooded_hills": "2019-05-03 22:18:37 +0000",
-      "minecraft:stone_shore": "2019-05-05 20:48:21 +0000",
       "minecraft:giant_tree_taiga_hills": "2019-05-04 22:43:55 +0000",
+      "minecraft:stone_shore": "2019-05-05 20:48:21 +0000",
       "minecraft:swamp": "2019-05-05 20:37:25 +0000",
       "minecraft:savanna": "2019-05-06 20:32:31 +0000",
       "minecraft:plains": "2019-05-04 21:38:35 +0000"
@@ -3989,5 +3989,5 @@
     },
     "done": true
   },
-  "DataVersion": 2227
+  "DataVersion": 2230
 }
