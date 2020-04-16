@@ -356,6 +356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2020-04-15 22:35:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2020-02-08 23:37:36 +0000"
@@ -746,6 +752,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2020-04-15 22:01:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2019-05-05 21:25:11 +0000"
@@ -893,6 +905,12 @@
       "minecraft:zombie_villager": "2019-05-04 21:48:53 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2020-04-15 22:32:58 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
@@ -1371,6 +1389,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2019-05-03 22:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2020-04-15 22:35:23 +0000"
     },
     "done": true
   },
@@ -3031,6 +3055,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2020-04-15 22:52:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2019-07-27 22:36:56 +0000"
@@ -3397,6 +3427,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2020-04-15 22:37:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2019-05-04 20:44:19 +0000"
@@ -3658,6 +3694,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2019-07-16 20:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_glazed_terracotta": {
+    "criteria": {
+      "has_pink_terracotta": "2020-04-15 22:35:12 +0000"
     },
     "done": true
   },
@@ -3982,6 +4024,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2019-05-05 20:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2020-04-15 22:54:33 +0000"
     },
     "done": true
   },
