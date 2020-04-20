@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2020-04-20 20:54:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2019-05-04 20:38:59 +0000"
@@ -4016,6 +4022,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2019-05-03 22:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2020-04-20 21:51:28 +0000"
     },
     "done": true
   },
