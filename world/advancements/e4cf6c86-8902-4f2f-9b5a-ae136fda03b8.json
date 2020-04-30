@@ -940,6 +940,7 @@
       "minecraft:witch": "2019-07-06 22:06:48 +0000",
       "minecraft:wither_skeleton": "2019-07-13 23:29:04 +0000",
       "minecraft:shulker": "2019-07-15 21:47:19 +0000",
+      "minecraft:cave_spider": "2020-04-29 20:56:20 +0000",
       "minecraft:enderman": "2019-05-05 22:13:23 +0000",
       "minecraft:silverfish": "2019-06-25 22:06:25 +0000",
       "minecraft:zombie": "2019-05-03 22:23:10 +0000",
@@ -2500,6 +2501,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2019-07-19 21:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_netherbrick": "2020-04-29 21:07:06 +0000"
     },
     "done": true
   },
