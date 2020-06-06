@@ -1375,6 +1375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2020-06-05 23:14:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2019-07-19 21:24:09 +0000"
@@ -1474,6 +1480,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-05-04 21:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2020-06-05 23:14:16 +0000"
     },
     "done": true
   },
@@ -1798,6 +1810,7 @@
       "minecraft:giant_tree_taiga": "2019-05-04 22:42:50 +0000",
       "minecraft:taiga_hills": "2019-08-10 21:56:05 +0000",
       "minecraft:jungle": "2019-05-04 23:07:16 +0000",
+      "minecraft:birch_forest": "2020-06-05 23:07:37 +0000",
       "minecraft:bamboo_jungle": "2019-05-04 23:08:07 +0000",
       "minecraft:warm_ocean": "2019-05-04 22:47:41 +0000",
       "minecraft:deep_lukewarm_ocean": "2019-05-04 22:50:03 +0000",
@@ -1841,6 +1854,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2019-05-03 22:18:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2020-06-05 23:14:16 +0000"
     },
     "done": true
   },
@@ -2405,6 +2424,12 @@
   "minecraft:recipes/decorations/pink_carpet": {
     "criteria": {
       "has_pink_wool": "2019-10-02 20:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2020-06-05 22:33:46 +0000"
     },
     "done": true
   },
@@ -4186,6 +4211,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "textures/entity/cat/white.png": "2020-06-05 23:01:07 +0000",
+      "textures/entity/cat/black.png": "2020-06-05 23:01:59 +0000",
       "textures/entity/cat/ragdoll.png": "2019-10-29 21:32:15 +0000",
       "textures/entity/cat/british_shorthair.png": "2019-10-28 23:28:44 +0000",
       "textures/entity/cat/calico.png": "2019-10-29 21:49:46 +0000"
