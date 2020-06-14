@@ -362,6 +362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2020-06-14 20:32:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2019-09-21 20:53:21 +0000"
@@ -1189,6 +1195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2020-06-14 20:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-04 21:02:40 +0000"
@@ -1567,6 +1579,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2020-06-14 20:32:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2019-05-04 20:23:16 +0000"
@@ -1836,6 +1854,7 @@
       "minecraft:dark_forest": "2019-07-14 23:29:22 +0000",
       "minecraft:river": "2019-05-04 20:35:55 +0000",
       "minecraft:lukewarm_ocean": "2019-05-04 22:25:50 +0000",
+      "minecraft:birch_forest_hills": "2020-06-14 21:03:44 +0000",
       "minecraft:bamboo_jungle_hills": "2019-05-04 23:09:24 +0000",
       "minecraft:wooded_mountains": "2019-07-13 22:09:55 +0000",
       "minecraft:wooded_hills": "2019-05-03 22:19:14 +0000",
@@ -2190,6 +2209,12 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2019-06-21 22:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2020-06-14 20:32:53 +0000"
     },
     "done": true
   },
@@ -3195,6 +3220,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2020-06-14 21:24:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2019-05-04 21:02:41 +0000"
@@ -3906,6 +3937,12 @@
   "minecraft:recipes/decorations/pink_glazed_terracotta": {
     "criteria": {
       "has_pink_terracotta": "2020-04-15 22:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2020-06-14 20:28:32 +0000"
     },
     "done": true
   },
